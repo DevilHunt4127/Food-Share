@@ -15,11 +15,11 @@ Contact: A section where users can reach out for support or inquiries.
 About Us: Provides information about the Food Share initiative and its mission to reduce food waste and support communities.
 
 <h3>Technologies Used</h3>
-Frontend: (List any frameworks or libraries you are using, e.g., React Native, Flutter)
+Frontend: (List any frameworks or libraries you are using, e.g., XML)
 
-Backend: (List any backend technologies, e.g., Node.js, Firebase, etc.)
+Backend: (List any backend technologies, e.g., java, Firebase, etc.)
 
-Database: (Mention any databases in use, e.g., Firebase, MongoDB, PostgreSQL)
+Database: (Mention any databases in use, e.g., Firebase)
 
 Map Integration: (Mention any map services like Google Maps, OpenStreetMap, etc.)
 </body>
@@ -51,7 +51,7 @@ Map Integration: (Mention any map services like Google Maps, OpenStreetMap, etc.
     <td>Md Mahfuzur Rahman Limon</td>
     <td>MRL</td>
     <td>Ui/Ux</td>
-  </tr>Assign tasks and ensure timely complete</td>
+  </tr>Assign tasks</td>
   </tr>
   <tr>
     <td>Nusrat Jahan Shafa</td>
